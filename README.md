@@ -167,11 +167,10 @@ years since its publication date).
 
 * Test your programs using the provided JUnit test suite(s).  Fix any
 errors and completely debug your programs.
-* Submit the following files through webhandin:
-  * `Author.java`
-  * `Book.java`
-* Run the grader and verify the output to complete your lab.
+* Compress your Lab 02 project to a zip file and name it `CS222-Lab02smc1` where `smc1` is YOUR SMC username.
+* Submit the zip file to Canvas.
 
+  
 ### Advanced Activity (Optional) 
 
 1.  The `printBooks()` method prints books in the order in which they appear in the
